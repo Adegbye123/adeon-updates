@@ -1,9 +1,9 @@
 {
   "product": "Adeon LR Picker",
   "version": "1.0.28",
-  "published_at": "2026-09-17T14:47:10Z",
+  "published_at": "2026-09-17T14:50:24Z",
   "summary": "jj",
   "package_url": "https://raw.githubusercontent.com/Adegbye123/adeon-updates/main/adeon/releases/1.0.28/Adeon%20Update%201.0.28.zip",
-  "sha256": "bb98a888416f18d28e5182ef18cfd671a363c575af7db9408f0cd989abd51874",
+  "sha256": "3045c42675ff9cd4c10a9687b8fd7b8da7c93be43312df653d0304b82786826e",
   "install_mode": "replace-program-files-preserve-user-data"
 }
